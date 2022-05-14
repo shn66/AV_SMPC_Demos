@@ -1,5 +1,5 @@
 # AV_SMPC_Demos
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shn66/AV_SMPC_Demos/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shn66/AV_SMPC_Demos/HEAD?labpath=SMPC_Demos.ipynb)
 
 A collection of examples for Stochastic MPC applied to Autonomous Vehicle Scenarios
 
